@@ -1,0 +1,16 @@
+{
+  "name": "ransom.js",
+  "version": "1.0.0",
+  "description": "Js ransomware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ransomware",
+    "Crypto",
+    "Nodejs"
+  ],
+  "author": "Matheus Cantarutti através do curso ministrado em: https://www.hackaflag.com.br",
+  "license": "UNLICENSED"
+}
