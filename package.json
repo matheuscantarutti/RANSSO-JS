@@ -11,6 +11,9 @@
     "Crypto",
     "Nodejs"
   ],
-  "author": "Matheus Cantarutti através do curso ministrado em: https://www.hackaflag.com.br",
-  "license": "UNLICENSED"
+  "author": "Matheus Cantarutti atravï¿½s do curso ministrado em: https://www.hackaflag.com.br",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
