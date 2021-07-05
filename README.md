@@ -1,4 +1,5 @@
 Ransomware multi-plataforma escrito em JavaScript.
+  
 Conteúdo ministrado pelo Thauan Santos no curso da plataforma:  https://www.hackaflag.com.br
 
 Este é um projeto exclusivamente acadêmico. Portanto, não tem nenhum outro fim, senão o aprendizado.
